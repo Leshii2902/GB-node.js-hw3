@@ -1,0 +1,23 @@
+{
+  "name": "hw3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leshii2902/GB-node.js-hw3.git"
+  },
+  "author": "Alexey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leshii2902/GB-node.js-hw3/issues"
+  },
+  "homepage": "https://github.com/Leshii2902/GB-node.js-hw3#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.76.0"
+  }
+}
